@@ -5,8 +5,6 @@
 You can click the Preview link to take a look at your changes.
 --->
 
-## Hello World! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
-
 ### Happy to see you're here! 🤩 
 
 - 👋 I’m @yagniksangani
