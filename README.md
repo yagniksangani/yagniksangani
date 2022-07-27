@@ -9,7 +9,7 @@ You can click the Preview link to take a look at your changes.
 
 - 👋 I’m @yagniksangani
 - 👀 Interested in learning new technologies.
-- 🌱 Want to work in ReactJS / Custom Gutenberg Block Development. Share me some idea if you have good knowledge about it.
+- 🌱 I want to work in ReactJS / Custom Gutenberg Block Development. Share with me some ideas if you have good knowledge about it.
 - 💞️ Looking to collaborate with other developers and work on some good projects. 
 - 📫 How to reach me - yagniksangani95@gmail.com
 
