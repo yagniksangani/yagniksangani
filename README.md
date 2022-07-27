@@ -26,8 +26,6 @@ You can click the Preview link to take a look at your changes.
 [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&link=https://github.com/yagniksangani)](https://github.com/yagniksangani) 
 [![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&link=https://github.com/yagniksangani)](https://github.com/yagniksangani)  
 [![JSON](https://img.shields.io/badge/-json-02569B?style=flat&logo=json&link=https://github.com/yagniksangani)](https://github.com/yagniksangani)
-
-
 [![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&link=https://github.com/yagniksangani)](https://github.com/yagniksangani) 
 [![Bitbucket](https://img.shields.io/badge/-Bitbucket-blue?style=flat&logo=bitbucket&link=https://github.com/yagniksangani)](https://github.com/yagniksangani)
 [![Jira](https://img.shields.io/badge/-JIra-0052cc?style=flat&logo=jira&link=https://github.com/yagniksangani)](https://github.com/yagniksangani)
