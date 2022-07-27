@@ -9,7 +9,7 @@ You can click the Preview link to take a look at your changes.
 
 - 👋 I’m @yagniksangani
 - 👀 Interested in learning new technologies.
-- 🌱 I’m currently learning ReactJS / Custom Gutenberg Block Development. Share me some idea if you have good knowledge about it.
+- 🌱 I’m currently learning ReactJS/Custom Gutenberg Block Development. Share me some idea if you have good knowledge about it.
 - 💞️ Looking to collaborate with other developers and work on some good projects. 
 - 📫 How to reach me - yagniksangani95@gmail.com
 
@@ -30,3 +30,5 @@ You can click the Preview link to take a look at your changes.
 [![Bitbucket](https://img.shields.io/badge/-Bitbucket-blue?style=flat&logo=bitbucket&link=https://github.com/yagniksangani)](https://github.com/yagniksangani)
 [![Jira](https://img.shields.io/badge/-JIra-0052cc?style=flat&logo=jira&link=https://github.com/yagniksangani)](https://github.com/yagniksangani)
 [![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat&logo=slack&logoColor=white&link=https://github.com/yagniksangani)](https://github.com/yagniksangani)
+[![Trello](https://img.shields.io/badge/Trello-0052CC?style=flat&logo=trello&logoColor=white&link=https://github.com/yagniksangani)](https://github.com/yagniksangani)
+
